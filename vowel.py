@@ -5,3 +5,4 @@ if b in list1:
     print("Vowel")
 else:
     print('Consonant')
+,,
