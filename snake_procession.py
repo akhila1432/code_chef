@@ -1,4 +1,4 @@
-try:
+
     t=int(input())
     while t > 0:
         n=int(input())
@@ -11,5 +11,3 @@ try:
            print('Invalid')
         
         t-1
-except:
-    pass
